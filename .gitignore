@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Compiled files
+*.o
+*.a
+*.so
+*.exe
+*.out
+
+# NS-3 build files
+build/
+.ns3
+waf-*
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Generated XML files (optional - comment out if you want to track them)
+# *.xml
